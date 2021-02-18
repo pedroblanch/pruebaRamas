@@ -4,6 +4,9 @@ for($i=1;$i<=10;$i++){
 	echo "<br>2 x $i = $resultado";
 }
 
+poqaisod ipoas
+qsasd papsdol pàsd
+
 as´çsdpodqaesw ñ rñew oñiew uoñiew roi
 echo "<br><br>";
 
